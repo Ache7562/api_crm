@@ -1,3 +1,12 @@
 {
-  "clientes": []
+  "clientes": [
+    {
+      "nombre": "Oamr",
+      "empresa": "dasd",
+      "email": "pabloferhdc2@gmail.com",
+      "telefono": "41033610",
+      "notas": "dasdsa",
+      "id": 1
+    }
+  ]
 }
