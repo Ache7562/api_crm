@@ -1,12 +1,28 @@
 {
   "clientes": [
     {
-      "nombre": "Oamr",
-      "empresa": "dasd",
+      "nombre": "Veronica",
+      "empresa": "Alforja",
+      "email": "veronica@gmail.com",
+      "telefono": "55106013",
+      "notas": "Cita Lunes 30",
+      "id": 1
+    },
+    {
+      "nombre": "Diego ACTUALIZADO!!",
+      "empresa": "BDG",
+      "email": "Diego@gmail.com",
+      "telefono": "13467980",
+      "notas": "Evaluacion Semanal!!!",
+      "id": 3
+    },
+    {
+      "nombre": "DASDA",
+      "empresa": "DASDAS",
       "email": "pabloferhdc2@gmail.com",
       "telefono": "41033610",
-      "notas": "dasdsa",
-      "id": 1
+      "notas": "DASDA",
+      "id": 4
     }
   ]
 }

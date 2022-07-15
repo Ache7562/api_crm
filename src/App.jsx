@@ -12,8 +12,8 @@ import VerCliente from './paginas/VerCliente'
 
 
 function App() {
-  return (
 
+  return (
     <BrowserRouter>
         <Routes>
 
